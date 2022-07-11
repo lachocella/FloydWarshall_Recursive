@@ -1,0 +1,24 @@
+Folder PATH listing for volume Windows
+Volume serial number is 0000023A A040:41A7
+C:.
+|   floyd.py
+|   floyd_directory_tree.txt
+|   pmeasure.py
+|   README.md
+|   requirements.txt
+|   tests.py
+|   
++---.idea
+|   |   .gitignore
+|   |   assignment.iml
+|   |   misc.xml
+|   |   modules.xml
+|   |   workspace.xml
+|   |   
+|   \---inspectionProfiles
+|           profiles_settings.xml
+|           
+\---__pycache__
+        floyd.cpython-310.pyc
+        floyd.cpython-39.pyc
+        
